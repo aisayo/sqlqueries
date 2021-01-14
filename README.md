@@ -128,5 +128,6 @@
 
 [DB BROWSER](https://sqlitebrowser.org/)
 [VS CODE SQLITE](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+[SQL Cheat Sheet](https://www.sqltutorial.org/sql-cheat-sheet/)
 
 

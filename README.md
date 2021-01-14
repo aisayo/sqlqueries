@@ -122,7 +122,6 @@
 # Relational Databases
 
 
-afafafaaf
 
 
 ## Resources 

@@ -122,10 +122,12 @@
 # Relational Databases
 
 
-afaf
+afafafaaf
 
 
 ## Resources 
 
 [DB BROWSER](https://sqlitebrowser.org/)
 [VS CODE SQLITE](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)
+
+
